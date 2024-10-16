@@ -1,0 +1,7 @@
+streamlit
+numpy
+faiss-cpu
+openai==0.28
+python-dotenv
+streamlit_extras
+streamlit_lottie
