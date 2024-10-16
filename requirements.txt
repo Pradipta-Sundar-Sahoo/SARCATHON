@@ -4,4 +4,13 @@ faiss-cpu
 openai==0.28
 python-dotenv
 streamlit_extras
-streamlit_lottie
+numpy
+onnxruntime== 1.19.0
+phonemizer==2.2.1
+SpeechRecognition
+faster-whisper
+sentence-transformers
+soundfile
+pyaudio
+wave
+argparse
