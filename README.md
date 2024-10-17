@@ -19,6 +19,7 @@ This project is a **Smart FAQ Module** for the SARAS AI Institute website, desig
 - **Concise & Detailed Responses**: Provides both quick and in-depth answers based on user preference.
 - **Text-to-Speech (TTS) Option**: Converts the concise response to audio using NixTTS for added accessibility (optional).
 - **User-Friendly Interface**: A clean, intuitive interface for easy interaction.
+- **ADDED FEW MORE Questions**: For robustness.
 
 ## Technologies Used
 - **OpenAI**: For natural language processing and embeddings.
