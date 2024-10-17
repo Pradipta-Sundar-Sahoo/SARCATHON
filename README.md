@@ -90,7 +90,8 @@ This project is a **Smart FAQ Module** for the SARAS AI Institute website, desig
    - The audio playback is processed in chunks for efficiency and clarity.
 
 ## File Structure
-SmartFAQSystem/
+```ruby
+SARCATHON/
 │
 ├── app_voice.py             # Main app file with TTS feature
 ├── app.py          # Main app file without TTS
@@ -105,6 +106,7 @@ SmartFAQSystem/
 └──fastapi_code.py     # Code for deploying , So that can be used for future advancement. [FAST API]
 └──index_faq.py        # Code for creating index
 └──ignore rest 
+```
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
