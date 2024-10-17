@@ -15,3 +15,7 @@ pyaudio
 wave
 argparse
 streamlit_lottie
+mangum
+pydantic
+fastapi
+uvicorn
