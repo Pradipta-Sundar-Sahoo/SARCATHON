@@ -109,6 +109,12 @@ SARCATHON/
 └──ignore rest 
 ```
 
+## WHAT ELSE I HAVE TRIED?
+- Tried with pinecone (fetching time was more)
+- Tried Agentic Frameworks ( Takes lot of tokens, but no such improvements)
+- Gave **multi-modal input** (found it useless for FAQ system)
+- Can do multilingual.
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
