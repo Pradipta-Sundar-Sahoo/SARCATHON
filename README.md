@@ -115,6 +115,7 @@ SARCATHON/
 - Gave **multi-modal input** i.e speech (found it useless for FAQ system)
 - Can do multilingual.
 
+[Watch the video](https://drive.google.com/file/d/19Ddw34V02Veqb5rx8bg4jm1ADUXlxQC6/view?usp=drive_link)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
