@@ -37,7 +37,7 @@ This project is a **Smart FAQ Module** for the SARAS AI Institute website, desig
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/SmartFAQSystem.git
+   git clone https://github.com/yourusername/SmartFAQSystem.git](https://github.com/Pradipta-Sundar-Sahoo/SARCATHON.git)
    cd SmartFAQSystem
    ```
 2. **Install dependencies**: Make sure you have Python 3.8+ and pip installed.
