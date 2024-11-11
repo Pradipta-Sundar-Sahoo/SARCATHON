@@ -1,6 +1,7 @@
 # SARAS AI INSTITUTE - Smart FAQ Query System  ((removed the instance))
 
-Link to Access(w/o TTS) : [Smart FAQ Query System](http://ec2-54-159-96-209.compute-1.amazonaws.com:8501)
+Link to Access(w/o TTS) : [Smart FAQ Query System](http://ec2-54-159-96-209.compute-1.amazonaws.com:8501) ((removed the instance))
+
 
 This project is a **Smart FAQ Module** for the SARAS AI Institute website, designed to enhance user experience by delivering precise, immediate answers to user queries based on the FAQ database. Leveraging **OpenAI**, **FAISS**, and **NixTTS**, this module returns concise and detailed responses and can also convert responses to audio using Text-to-Speech (TTS).
 
