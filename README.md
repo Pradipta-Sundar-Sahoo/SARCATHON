@@ -1,4 +1,4 @@
-# SARAS AI INSTITUTE - Smart FAQ Query System
+# SARAS AI INSTITUTE - Smart FAQ Query System  [[removed the instance]]
 
 Link to Access(w/o TTS) : [Smart FAQ Query System](http://ec2-54-159-96-209.compute-1.amazonaws.com:8501)
 
@@ -78,7 +78,7 @@ This project is a **Smart FAQ Module** for the SARAS AI Institute website, desig
         streamlit run app_voice.py
         ```
 5. **Access the deployed App**:
-    [SMART_FAQ_SYSTEM](http://ec2-54-159-96-209.compute-1.amazonaws.com:8501)
+    [SMART_FAQ_SYSTEM](http://ec2-54-159-96-209.compute-1.amazonaws.com:8501)   [[removed the instance]]
 
 ## Usage
 1. **Enter Your Question**: Open the app in your browser and type your question in the input box.
